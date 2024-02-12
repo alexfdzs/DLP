@@ -41,4 +41,6 @@ CODE
 	while (alto != 10) {
 		print alto;
 		alto = alto + 1;
+		print f();
+		f();
 	}
