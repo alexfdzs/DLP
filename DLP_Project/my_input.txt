@@ -1,0 +1,11 @@
+testCall() {
+
+    var a:int;
+    var f:float;
+    var c:char;
+    var v:[10]int;
+    var raul:Persona;
+
+    a = callNoParams();
+
+}
